@@ -26,7 +26,7 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6q0092_000-CBETA.yaml, hash: 'sha256:9032eee2a059e5d04b2d038f29de54cf1b2523ee87381d12aafe6dc635b7d3d3'}
+  - {seq: 0, filename: KR6q0092_000-CBETA.yaml, hash: 'sha256:ba771f859c3517b1366427c9e860e9b7022b8da471e5094b9a79d5d7d3660fa0'}
   - {seq: 2, filename: KR6q0092_002-CBETA.yaml, hash: 'sha256:4c9d6d699764ee8086eccdc9392faadb1a14d5eee19aeb0e78d4cb2ea203ed25'}
   - {seq: 3, filename: KR6q0092_003-CBETA.yaml, hash: 'sha256:8d97f78ac0d8eeda8422840f7af449d1b4c69d519ab468fb0d28a461bbb2b63d'}
   - {seq: 4, filename: KR6q0092_004-CBETA.yaml, hash: 'sha256:4868ef567ec99c95a0d500b3d908dadeb301c3c18a8eec40fed19ae0f66b8bc2'}
@@ -126,7 +126,7 @@ assets:
   - {seq: 99, filename: KR6q0092_099-CBETA.yaml, hash: 'sha256:00e7d1d77ab6a1af16e90dd60d068b36a607da55bfe93d57787a3ad0874db0e6'}
   - {seq: 100, filename: KR6q0092_100-CBETA.yaml, hash: 'sha256:8bdd5ba87356c1e979924a41522100b56d4b203cee62b92212ec43af929e85d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0092_000-CBETA.markers.yaml, hash: 'sha256:b82403d3e111469d378553dced881530bc9602814266c87923e2ff37baadb244'}
+  - {seq: 0, role: markers, filename: assets/KR6q0092_000-CBETA.markers.yaml, hash: 'sha256:0053261292201d0fc2918b02d9ccddc8bf1582481922460ec1ddc641629db629'}
   - {seq: 2, role: markers, filename: assets/KR6q0092_002-CBETA.markers.yaml, hash: 'sha256:e070572815322139870ff80598add0f91a366c45e4fe376fa17cd9685a147f5b'}
   - {seq: 3, role: markers, filename: assets/KR6q0092_003-CBETA.markers.yaml, hash: 'sha256:17deddd6064c84945c948bb7011f26af0bfe17015a02c97d48ec3d94058bb80a'}
   - {seq: 4, role: markers, filename: assets/KR6q0092_004-CBETA.markers.yaml, hash: 'sha256:7358584c92c99a15cf415dc852e5ebb00a3b8617fec82f862e740d56ef4f6b2a'}
@@ -230,7 +230,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0092_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 宗鑑錄序
@@ -240,7 +240,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0092_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 467
     - 467
   label: 宗鏡錄序
@@ -250,7 +250,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0092_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 661
     - 661
   label: 宗鏡錄序
@@ -260,7 +260,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0092_CBETA_000-mulu-4
     span:
-    - front
+    - body
     - 3098
     - 3098
   label: 1 標宗章
@@ -270,7 +270,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0092_CBETA_000-mulu-5
     span:
-    - front
+    - body
     - 3098
     - 3098
   label: '1'
@@ -1296,4 +1296,4 @@ table_of_contents:
   label: 宗鏡錄卷第一百
   type: juan
   level: 1
-hash: sha256:0841f8f4e823f8955e629aa0f302ff29a1097fbb36275629c55c19b5b7f5a322
+hash: sha256:c3b9e84aa84c83816f39200696df6bb47f04e55f74d6dd29f956f55837f40ada

@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6q0092/CBETA/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6q0092_CBETA_048-2016.0415a}
   - {type: line-break, offset: 0, content: '', id: T_0415a01}
   - {type: line-break, offset: 0, content: '', id: T_0415a02}
@@ -4033,6 +4033,5 @@ markers:
   - {type: line-break, offset: 9125, content: '', id: T_0421b14}
   - {type: line-break, offset: 9125, content: '', id: T_0421b15}
   - {type: line-break, offset: 9125, content: '', id: T_0421b16}
-  body: []
   back: []
-hash: sha256:b82403d3e111469d378553dced881530bc9602814266c87923e2ff37baadb244
+hash: sha256:0053261292201d0fc2918b02d9ccddc8bf1582481922460ec1ddc641629db629
